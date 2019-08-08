@@ -1,5 +1,5 @@
 # spring-rest
-# KANG123
+
 my new project
 
 This project is a seed for creating [Spring Boot][boot] [REST][rest]
